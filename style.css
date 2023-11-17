@@ -59,13 +59,17 @@ h1{
 }
 
 .content button{
-    color: #E5E7EB;
-    background-color: #3882F6;
-    font-weight: bold;
-    padding: 4px 20px;
     margin-top: 16px;
     border: 2px solid transparent;
+}
+
+.btn{
+    font-weight: bold;
     border-radius: 5px;
+    padding: 4px 20px;
+    color: #E5E7EB;
+    background-color: #3882F6;
+    border: 2px solid currentColor;
 }
 
 .img-box{
@@ -94,4 +98,39 @@ h1{
     font-size: 26px;
     font-weight: bold;
     text-align: right;
+}
+
+/* Sign Up Section */
+
+.outer-sign-up-section{
+    padding: 80px 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+}
+
+.inner-sign-up-section{
+    display: flex;
+    background-color: #3882F6;
+    width: 80%;
+    border-radius: 5px;
+    padding: 30px 90px;
+    justify-content: space-between;
+}
+
+.bold-text{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* footer */
+
+.footer{
+    font-size: 18px;
+    text-align: center;
+    color: #E5E7EB;
+    background-color: #1F2937;
+
+    padding: 26px 0;
 }
